@@ -1,0 +1,3 @@
+D:\cppsoft\cmake\bin\cmake.exe -E rm -f CMakeFiles\ThreadPoolDemo.dir/objects.a
+D:\QT\Tools\mingw810_64\bin\ar.exe qc CMakeFiles\ThreadPoolDemo.dir/objects.a @CMakeFiles\ThreadPoolDemo.dir\objects1.rsp
+D:\QT\Tools\mingw810_64\bin\g++.exe  -Wall -Wextra -O2 -g -g -Wl,--whole-archive CMakeFiles\ThreadPoolDemo.dir/objects.a -Wl,--no-whole-archive -o bin\ThreadPoolDemo.exe -Wl,--out-implib,libThreadPoolDemo.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\ThreadPoolDemo.dir\linkLibs.rsp

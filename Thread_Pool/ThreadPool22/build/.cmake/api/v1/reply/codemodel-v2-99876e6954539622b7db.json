@@ -1,0 +1,70 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-4b7ad93247f71b5cb7f8.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "ThreadPool",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ThreadPoolDemo::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ThreadPoolDemo-Debug-763361dc34038a4d9695.json",
+					"name" : "ThreadPoolDemo",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ThreadPoolLib::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ThreadPoolLib-Debug-1f77cd0fa3ef1e0dc577.json",
+					"name" : "ThreadPoolLib",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Administrator.DESKTOP-QBVF4GM/Desktop/ThreadPool/build",
+		"source" : "C:/Users/Administrator.DESKTOP-QBVF4GM/Desktop/ThreadPool"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

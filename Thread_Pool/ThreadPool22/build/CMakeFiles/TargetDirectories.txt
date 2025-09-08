@@ -1,0 +1,8 @@
+C:/Users/Administrator.DESKTOP-QBVF4GM/Desktop/ThreadPool/build/CMakeFiles/ThreadPoolLib.dir
+C:/Users/Administrator.DESKTOP-QBVF4GM/Desktop/ThreadPool/build/CMakeFiles/ThreadPoolDemo.dir
+C:/Users/Administrator.DESKTOP-QBVF4GM/Desktop/ThreadPool/build/CMakeFiles/edit_cache.dir
+C:/Users/Administrator.DESKTOP-QBVF4GM/Desktop/ThreadPool/build/CMakeFiles/rebuild_cache.dir
+C:/Users/Administrator.DESKTOP-QBVF4GM/Desktop/ThreadPool/build/CMakeFiles/list_install_components.dir
+C:/Users/Administrator.DESKTOP-QBVF4GM/Desktop/ThreadPool/build/CMakeFiles/install.dir
+C:/Users/Administrator.DESKTOP-QBVF4GM/Desktop/ThreadPool/build/CMakeFiles/install/local.dir
+C:/Users/Administrator.DESKTOP-QBVF4GM/Desktop/ThreadPool/build/CMakeFiles/install/strip.dir

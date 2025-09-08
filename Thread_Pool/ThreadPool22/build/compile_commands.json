@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/Users/Administrator.DESKTOP-QBVF4GM/Desktop/ThreadPool/build",
+  "command": "d:\\QT\\Tools\\mingw1120_64\\bin\\g++.exe -DDEBUG -IC:/Users/Administrator.DESKTOP-QBVF4GM/Desktop/ThreadPool  -Wall -Wextra -O2 -g -DQT_QML_DEBUG -DQT_DECLARATIVE_DEBUG -g -std=gnu++11 -o CMakeFiles\\ThreadPoolLib.dir\\ThreadPool.cpp.obj -c C:\\Users\\Administrator.DESKTOP-QBVF4GM\\Desktop\\ThreadPool\\ThreadPool.cpp",
+  "file": "C:\\Users\\Administrator.DESKTOP-QBVF4GM\\Desktop\\ThreadPool\\ThreadPool.cpp",
+  "output": "CMakeFiles\\ThreadPoolLib.dir\\ThreadPool.cpp.obj"
+},
+{
+  "directory": "C:/Users/Administrator.DESKTOP-QBVF4GM/Desktop/ThreadPool/build",
+  "command": "d:\\QT\\Tools\\mingw1120_64\\bin\\g++.exe -DDEBUG -IC:/Users/Administrator.DESKTOP-QBVF4GM/Desktop/ThreadPool  -Wall -Wextra -O2 -g -DQT_QML_DEBUG -DQT_DECLARATIVE_DEBUG -g -std=gnu++11 -o CMakeFiles\\ThreadPoolDemo.dir\\main.cpp.obj -c C:\\Users\\Administrator.DESKTOP-QBVF4GM\\Desktop\\ThreadPool\\main.cpp",
+  "file": "C:\\Users\\Administrator.DESKTOP-QBVF4GM\\Desktop\\ThreadPool\\main.cpp",
+  "output": "CMakeFiles\\ThreadPoolDemo.dir\\main.cpp.obj"
+}
+]

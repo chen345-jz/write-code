@@ -1,0 +1,2 @@
+D:\QT\Tools\mingw810_64\bin\ar.exe qc libThreadPoolLib.a CMakeFiles/ThreadPoolLib.dir/ThreadPool.cpp.obj
+D:\QT\Tools\mingw810_64\bin\ranlib.exe libThreadPoolLib.a
